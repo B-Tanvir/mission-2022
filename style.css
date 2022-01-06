@@ -70,6 +70,7 @@ body p{
 #section-three img{
     height: 300px;
     width: 130%;
+    border-radius: 10px;
 }
 
 #section-three p{
@@ -100,6 +101,16 @@ body p{
     width: 130%;
 }
 
+#section-five{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+#section-five img{
+    height: 400px;
+    width: 280px;
+    margin-right: 100px;
+}
 
 
 .highlighted-text{
@@ -145,4 +156,8 @@ body p{
 
 #color-blue{
     background-color: #bbdefb;
+}
+
+.margin-8dp{
+    margin-bottom: 8dp;
 }
