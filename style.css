@@ -1,0 +1,90 @@
+body{
+    font-family: 'Open Sans', sans-serif;   
+}
+
+body p{
+    font-family: 'Luxurious Roman', cursive;
+}
+#section-one{
+    margin: 32px 0 40px 100px;
+    display: flex;
+}
+
+#section-one-div-one{
+    padding-right: 100px;
+
+}
+
+#section-one-div-one-border{
+    border-left: solid 3px;
+    border-image: linear-gradient(to bottom, indigo, red);
+    border-image-slice: 1;
+    padding-left: 5px;
+    font-size: 2.75em;
+}
+
+#section-one img{
+    width: 70%;
+    height: 90%;
+    margin-left: 20px;
+}
+
+
+.section-two-box{
+    padding:16px 16px 60px 16px;
+    margin: 16px 10px;
+    height: 200px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.section-two-box img{
+    width: 55%;
+    height: 50%;
+    image-orientation: ;
+}
+
+.highlighted-text{
+    text-align: center;
+    font-size: 2em;
+    font-family:sans-serif;
+    color: navy;
+    padding-bottom: 16px;
+}
+
+.half{
+    width: 50%;
+}
+
+.row{
+    display: flex;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.button{
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(to right, red, indigo);
+    border-radius: 8px;
+    font-family: monospace;
+
+}
+
+.orange-color{
+    color: #ff6f00;
+}
+
+#color-pink{
+    background-color: #f8bbd0;
+}
+
+#color-purple{
+    background-color: #e1bee7;
+}
+
+#color-blue{
+    background-color: #bbdefb;
+}
