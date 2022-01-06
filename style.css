@@ -29,6 +29,9 @@ body p{
     margin-left: 20px;
 }
 
+#section-two{
+    margin-left: 28px;
+}
 
 .section-two-box{
     padding:16px 16px 60px 16px;
@@ -72,6 +75,32 @@ body p{
 #section-three p{
     margin-bottom: 24px;
 }
+
+#section-four{
+    display: flex;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-bottom: 64px;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+#section-four-texts{
+    width: 65%;
+    margin-right: 32px;
+}
+
+#section-four-photo{
+    width: 35%;
+    margin-right: 10%;
+}
+
+#section-four-photo img{
+    height: 300px;
+    width: 130%;
+}
+
+
 
 .highlighted-text{
     text-align: center;
