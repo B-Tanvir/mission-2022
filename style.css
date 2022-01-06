@@ -44,6 +44,35 @@ body p{
     image-orientation: ;
 }
 
+#section-three{
+    display: flex;
+    margin: 48px 100px 48px 100px;
+}
+
+#section-three-first{
+    width: 35%;
+    margin-right: 15%;
+}
+
+#section-three-second{
+    width: 65%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#section-three-second h1{
+    font-size: 1.75em;
+}
+
+#section-three img{
+    height: 300px;
+    width: 130%;
+}
+
+#section-three p{
+    margin-bottom: 24px;
+}
+
 .highlighted-text{
     text-align: center;
     font-size: 2em;
